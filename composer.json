@@ -15,5 +15,8 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+        "php": ">=5.3",
+        "another-vendor/package": "1.*"
+    }
 }
