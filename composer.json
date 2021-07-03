@@ -1,0 +1,19 @@
+{
+    "name": "composer-simple-mail-sendbinitpatel/composer-simple-mail-send",
+    "description": "testing first time to build package for composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "binitpatel\\CompoerSimpleMailSend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Binit Patel",
+            "email": "binitpatel133@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
