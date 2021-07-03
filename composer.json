@@ -1,5 +1,5 @@
 {
-    "name": "composer-simple-mail-sendbinitpatel/composer-simple-mail-send",
+    "name": "binitpatel/composer-simple-mail-send",
     "description": "testing first time to build package for composer",
     "type": "library",
     "license": "MIT",
