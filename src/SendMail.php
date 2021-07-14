@@ -12,7 +12,7 @@ class SendMail
     public function sendemail()
     {
         $retval = mail ($this->to,$this->subject,$this->message,$this->header);
-         
+         echo "<br/>";
          if( $retval == true ) {
             return "Message sent successfully...";
          }else {
